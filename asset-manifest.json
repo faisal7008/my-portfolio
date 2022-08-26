@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.879f5893.css",
+    "main.js": "/my-portfolio/static/js/main.b8742a8a.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/faisal-pic-new.png": "/my-portfolio/static/media/faisal-pic-new.137e267558a578560163.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.879f5893.css.map": "/my-portfolio/static/css/main.879f5893.css.map",
+    "main.b8742a8a.js.map": "/my-portfolio/static/js/main.b8742a8a.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.879f5893.css",
+    "static/js/main.b8742a8a.js"
+  ]
+}
